@@ -232,9 +232,17 @@ export default function ContactForm() {
             inquiry — including follow-ups on your cash-offer request,
             appointment reminders, and messages from our team. Message
             frequency varies. Message &amp; data rates may apply. Reply{" "}
-            <strong className="text-white">STOP</strong> to opt out or{" "}
-            <strong className="text-white">HELP</strong> for help. Consent is
-            not a condition of receiving a cash offer. View our{" "}
+            <strong className="text-white">STOP</strong> to opt out. For
+            assistance, text <strong className="text-white">HELP</strong> or
+            visit our website at{" "}
+            <a
+              href="https://kcpbuyshouses.com"
+              target="_blank"
+              className="text-gold-400 underline hover:text-gold-300 transition-colors"
+            >
+              https://kcpbuyshouses.com
+            </a>
+            . Consent is not a condition of receiving a cash offer. View our{" "}
             <Link
               href="/privacy"
               target="_blank"
